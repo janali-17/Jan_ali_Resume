@@ -9,6 +9,7 @@
     --color-brand2: #deff58;
     --sidbar-width: 240px;
     --font-base: "Bai Jamjuree";
+    
 }
 
 body{
@@ -20,7 +21,7 @@ body{
 
 h1,h2,h3,h4,h5,h6{
     color: var(--color-heading) ;
-    font-weight: 700;
+    font-weight: 800;
 }
 
 a{
